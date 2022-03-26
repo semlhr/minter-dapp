@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "NeiTheAdventurerTurtle";
-const description = "This is the only turtle with the foresight necessary to save our world, Turtleland. If you are faster than our hero, help him spread his good will by having your unique image of him travel to all those other countries, demonstrating his concern for our nature, culture, and anything else you are wise enough to perceive with your own beautiful eyes.This is the only turtle with the foresight necessary to save our world, Turtleland. If you are faster than our hero, help him spread his good will by having your unique image of him travel to all those other countries, demonstrating his concern for our nature, culture, and anything else you are wise enough to perceive with your own beautiful eyes.";
+const description = "To rescue Turtleland, this turtle is the only one with the foresight required. To show your support for our hero's efforts to preserve our environment, culture, and anything else you are able to discern with your own keen senses, consider purchasing, minting, or otherwise disseminating his narrative. Let's learn from each other. I have faith in his abilities.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
