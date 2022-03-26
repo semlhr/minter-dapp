@@ -60,7 +60,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://www.instagram.com/arochagouvea", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://www.origincreationagr.xyz", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -76,7 +76,7 @@ const CONTRACT_SYMBOL = 'NAT';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x9F221d9Ca06cB8e8F1B88689ecfe462579fFA2D8';
 const TREASURY_ADDRESS = '0x9F221d9Ca06cB8e8F1B88689ecfe462579fFA2D8';
-const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 10000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 1; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 100; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
@@ -117,7 +117,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "https://www.origincreationagr.xyz",
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
